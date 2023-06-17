@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+ * main - prints smallest combination
+ * Return: returns 0 at the end of the loop
+ */
 int main(void)
 {
 int i, x;

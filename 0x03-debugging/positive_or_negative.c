@@ -3,8 +3,9 @@
 /* more headers goes there */
 
 /**
-* main - a random value assigned to n, and check if n is positive or nagative
+* positive_or_negative - a check if  is positive or nagative
 * Return: returns 0 at the end of check
+* @i: i is the new input
 */
 
 /* betty style doc for function main goes there */
